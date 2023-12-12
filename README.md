@@ -1,1 +1,1 @@
-This repository shows how you might use [tldraw](https://github.com/tldraw/tldraw) together with an LLM like GPT4.
+This fork of the repository [llm-starter](https://github.com/tldraw/tldraw-llm-starter/tree/main) shows how you might use [tldraw](https://github.com/tldraw/tldraw) together with an LLM like GPT4. The approach of my fork or idea is to use tldraw with a .mlx model trained locally, whether is Mistral, Llama, or any other open-source LLM model. 
